@@ -1,0 +1,18 @@
+Package: BSgenome.Dmelanogaster.flybase.dm3
+Title: Full genome sequences for Drosophila melanogaster (flybase version dm3)
+Description: Full genome sequences for Drosophila melanogaster (Fly) as provided by flybase (dm3, Apr. 2006) and stored in Biostrings objects.
+Version: 4.3
+Author: The Bioconductor Dev Team
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Depends: BSgenome (>= 1.40.1)
+Imports: BSgenome
+Suggests: TxDb.Dmelanogaster.UCSC.dm3.ensGene
+License: Artistic-2.0
+organism: Drosophila melanogaster
+common_name: Fly
+provider: flybase
+provider_version: dm3
+release_date: Apr. 2006
+release_name: BDGP Release 5
+source_url: -
+biocViews: AnnotationData, Genetics, BSgenome, Drosophila_melanogaster
